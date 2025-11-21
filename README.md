@@ -1,4 +1,4 @@
-# WaiterApp (Mobile)
+# WaiterApp (Mobile Client)
 
 Mobile client of the WaiterApp, an app made to help waiters to manage orders. This app enables you to create orders.
 
