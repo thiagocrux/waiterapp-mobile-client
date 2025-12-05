@@ -29,7 +29,7 @@ To fully experience and test this application during development, you'll need ei
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thiagocrux/waiterapp-mobile.git
+git clone https://github.com/thiagocrux/waiterapp-mobile-client.git
 ```
 
 2. Browse to the project folder:
